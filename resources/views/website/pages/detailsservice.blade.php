@@ -2,7 +2,7 @@
 @section('content')
 @include('website.layouts._sliderother', ['title'=>'Details service'])
 
-@livewire('website.services.detailsservice')
+@livewire('website.services.detailsservice', ['slug' => $service])
 
 <div class="cta">
     <div class="container">

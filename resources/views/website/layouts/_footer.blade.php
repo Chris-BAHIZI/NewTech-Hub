@@ -8,11 +8,13 @@
                     </div>
                     <div class="space20"></div>
                     <div class="heading1">
-                        <p>At TechXen IT Solutions, we're dedicated to delivering innovative technology solutions
-                            tailored to meet the unique needs of businesses like yours. </p>
+                        <p style="text-align: justify; text-justify: inter-word;">
+                            Chez NewTech Hub IT Solutions, nous nous engageons à fournir des solutions technologiques innovantes adaptées aux besoins
+                            uniques des entreprises comme la vôtre.
+                        </p>
                     </div>
                     <ul class="social-icon">
-                        <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                        <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
                         <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
                         <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
                         <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
@@ -22,13 +24,15 @@
 
             <div class="col-lg col-md-6 col-12">
                 <div class="single-footer-items">
-                    <h3>Service We Offer</h3>
-
+                    <h3>Services</h3>
+                    @php 
+                        use App\Models\Service;
+                        $services = Service::get()->take(5);
+                    @endphp
                     <ul class="menu-list">
-                        <li><a href="#">Cloud Computing Solution</a></li>
-                        <li><a href="#">Cybersecurity & Compliance</a></li>
-                        <li><a href="#">Software Development</a></li>
-                        <li><a href="#">It Consulting & Support</a></li>
+                        @foreach ($services as $service)
+                            <li><a href="#">{!! Str::limit($service->titre, 25, ' ..') !!}</a></li>
+                        @endforeach
                     </ul>
                 </div>
             </div>
@@ -41,7 +45,7 @@
                         <li><a href="{{route('accueil')}}">Accueil </a></li>
                         <li><a href="{{route('aproposdenous')}}">A propos de nous </a></li>
                         <li><a href="{{route('services')}}">Services </a></li>
-                        <li><a href="{{route('projets')}}">Projets </a></li>
+                        {{-- <li><a href="{{route('projets')}}">Projets </a></li> --}}
                         <li><a href="{{route('contact')}}">Contact </a></li>
                     </ul>
                 </div>
@@ -57,7 +61,7 @@
                             <img src="{{ asset('assets/img/icons/footer1-icon1.png') }}" alt="">
                         </div>
                         <div class="pera">
-                            <a href="tel:0500222333">0500 222 333</a>
+                            <a href="tel:+243975657710">+243 97 56 57 710</a>
                         </div>
                     </div>
 
@@ -66,7 +70,7 @@
                             <img src="{{ asset('assets/img/icons/footer1-icon2.png') }}" alt="">
                         </div>
                         <div class="pera">
-                            <a href="tel:0356588547">03 5658 8547</a>
+                            <a href="tel:+243875241251">+243 87 52 41 251</a>
                         </div>
                     </div>
 
@@ -75,7 +79,7 @@
                             <img src="{{ asset('assets/img/icons/footer1-icon3.png') }}" alt="">
                         </div>
                         <div class="pera">
-                            <a href="mailto:admin@techxen.org">admin@techxen.org</a>
+                            <a href="contact@newtechhub.org">contact@newtechhub.org</a>
                         </div>
                     </div>
 
@@ -84,7 +88,7 @@
                             <img src="{{ asset('assets/img/icons/footer1-icon4.png') }}" alt="">
                         </div>
                         <div class="pera">
-                            <a href="mailto:admin@techxen.org">www.techxen.org</a>
+                            <a href="contact@newtechhub.org">www.newtechhub.org</a>
                         </div>
                     </div>
 

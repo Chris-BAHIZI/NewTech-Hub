@@ -1742,7 +1742,7 @@ body.body {
   margin-right: 2px;
 }
 .heading1 h2 {
-  font-size: var(--f-fs-font-fs44);
+  font-size: 35px;
   line-height: var(--f-fs-font-fs52);
   font-weight: var(--f-fw-semibold);
   color: var(--ztc-text-text-1);
@@ -7592,7 +7592,7 @@ a.header__search.header-search-btn p {
   border: none;
 }
 .service-details-area-all .faq-area-all .accordion .accordion-item {
-  margin-top: 20px;
+  /* margin-top: 20px; */
   border: none;
   border-radius: 7px;
   padding: 6px;
@@ -7901,7 +7901,7 @@ a.header__search.header-search-btn p {
   border: none;
 }
 .comon-body .service-details-area-all .faq-area-all .accordion .accordion-item {
-  margin-top: 20px;
+  /* margin-top: 20px; */
   border: none;
   border-radius: 7px;
   padding: 6px;
