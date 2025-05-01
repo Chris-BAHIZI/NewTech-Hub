@@ -26,6 +26,6 @@
             </div>
         </div>
     </div>
-
+    <br>
     @livewire('website.services.voir-plus', ['slug' => $slug])
 </div>

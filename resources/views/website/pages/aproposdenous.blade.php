@@ -17,14 +17,14 @@
                     </div>
                     <div class="counter-box">
                         <h3>25</h3>
-                        <p>Years Of <br> Experience</p>
+                        <p>Années <br> d'expérience</p>
                     </div>
                 </div>
             </div>
 
             <div class="col-lg-6">
                 <div class="heading1">
-                    <span class="span"><img src="assets/img/newdesign/span1.png" alt=""> About Us</span>
+                    <span class="span"><img src="assets/img/newdesign/span1.png" alt=""> Qui sommes-nous ?</span>
                     <h2>Empower Your Business With Our Comprehensive IT Solutions</h2>
                     <div class="space16"></div>
                     <p>Welcome to TechXen, your premier destination for cutting-edge technology solutions and IT
@@ -58,7 +58,7 @@
 
                     <div class="space30"></div>
                     <div class="button">
-                        <a class="theme-btn1" href="contact.html">Get A Quote <span><i
+                        <a class="theme-btn1" href="{{route('contact')}}">Contactez-nous <span><i
                                     class="fa-solid fa-arrow-right"></i></span></a>
                     </div>
 
@@ -70,137 +70,6 @@
 
 <!--=====ABOUT AREA END=======-->
 
-<!--=====SOLUTION AREA START=======-->
-
-<div class="solution sp bg1">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6">
-                <div class="heading1">
-                    <span class="span"><img src="assets/img/newdesign/span1.png" alt=""> Our Mission</span>
-                    <h2>Innovating for Success: Our Technology Mission</h2>
-                    <div class="space16"></div>
-                    <p>At TechXen, our mission is simple: to revolutionize the digital landscape by delivering
-                        top-notch technology solutions that drive growth, efficiency, and sustainability for our
-                        clients. We strive to be the trusted partner that businesses can rely on to navigate the
-                        complexities of the digital world.</p>
-                    <div class="space16"></div>
-                    <p>"At TechXen, our mission is to empower businesses through technology. We believe in
-                        harnessing the power of innovation to drive growth, efficiency, and sustainability for our
-                        clients. Through our tailored technology solutions and unwavering commitment to excellence,
-                        we strive to be the catalyst for positive change in the digital landscape.</p>
-
-                    <div class="space30"></div>
-                    <div class="">
-                        <a class="theme-btn1" href="contact.html">Get A Quote <span><i
-                                    class="fa-solid fa-arrow-right"></i></span></a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-6">
-                <div class="solution-images">
-                    <div class="image1">
-                        <img src="assets/img/others/solution-img1.png" alt="">
-                    </div>
-                    <div class="image2">
-                        <img src="assets/img/others/solution-img2.png" alt="">
-                    </div>
-                    <div class="image3">
-                        <img src="assets/img/others/solution-img3.png" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!--=====SOLUTION AREA END=======-->
-
-<!--=====SOLUTION AREA START=======-->
-
-<div class="solution about-solution sp">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6">
-                <div class="images">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="image">
-                                <img src="assets/img/about/visiton-img1.png" alt="">
-                            </div>
-                        </div>
-
-                        <div class="col-lg-6">
-                            <div class="space30"></div>
-                            <div class="image">
-                                <img src="assets/img/about/visiton-img2.png" alt="">
-                            </div>
-                        </div>
-
-                        <div class="col-lg-6">
-                            <div class="space30"></div>
-                            <div class="image">
-                                <img src="assets/img/about/visiton-img3.png" alt="">
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="heading1">
-                    <span class="span"><img src="assets/img/newdesign/span1.png" alt=""> Our Vision</span>
-                    <h2>Driving Innovation: Our Vision at TechXen</h2>
-                    <div class="space16"></div>
-                    <p>At TechXen, our vision is to be the leading force driving digital transformation and
-                        innovation worldwide. We envision a future where businesses of all sizes have the tools and
-                        expertise they need to thrive in an increasingly digital world.</p>
-
-                    <div class="item-box">
-                        <div class="icon">
-                            <div class="">
-                                <img src="assets/img/icons/about-solution-iocn1.png" alt="">
-                            </div>
-                        </div>
-                        <div class="">
-                            <h3><a href="#">Network Infrastructure Solutions</a></h3>
-                            <div class="space10"></div>
-                            <p>Build a reliable and secure network infrastructure that <br> supports your business
-                                operations enables seamless</p>
-                        </div>
-                    </div>
-
-                    <div class="item-box">
-                        <div class="icon">
-                            <div class="">
-                                <img src="assets/img/icons/about-solution-iocn2.png" alt="">
-                            </div>
-                        </div>
-                        <div class="">
-                            <h3><a href="#">Managed It Services</a></h3>
-                            <div class="space10"></div>
-                            <p>Focus on your core business activities while we take <br> care of your IT needs with
-                                our managed IT services.</p>
-                        </div>
-                    </div>
-
-                    <div class="space30"></div>
-                    <div class="">
-                        <a class="theme-btn1" href="contact.html">Get A Quote <span><i
-                                    class="fa-solid fa-arrow-right"></i></span></a>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</div>
-
-<!--=====SOLUTION AREA END=======-->
-
-
-
 
 <!--=====TEAM AREA START=======-->
 
@@ -209,8 +78,8 @@
         <div class="row">
             <div class="col-lg-6 m-auto text-center">
                 <div class="heading1">
-                    <span class="span"><img src="assets/img/newdesign/span1.png" alt=""> Our Team</span>
-                    <h2>Meet With Our Expert Team</h2>
+                    <span class="span"><img src="assets/img/newdesign/span1.png" alt=""> Notre équipe</span>
+                    <h2>Rencontrez notre équipe d'experts</h2>
                 </div>
             </div>
         </div>
@@ -225,7 +94,7 @@
                         </div>
                         <div class="icon-area">
                             <ul>
-                                <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
