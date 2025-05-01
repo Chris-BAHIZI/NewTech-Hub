@@ -21,6 +21,10 @@ class PagesController extends Controller
         return view('website.pages.services');
     }
 
+    public function detailsservice($service){
+        return view('website.pages.detailsservice', compact('service'));
+    }
+
     public function projets()
     {
         return view('website.pages.projets');

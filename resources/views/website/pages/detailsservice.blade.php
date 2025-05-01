@@ -1,8 +1,8 @@
-@extends('website.layouts.defaultother', ['title'=>'services'])
+@extends('website.layouts.defaultother', ['title'=>'Details service'])
 @section('content')
-@include('website.layouts._sliderother', ['title'=>'services'])
+@include('website.layouts._sliderother', ['title'=>'Details service'])
 
-@livewire('website.services.services')
+@livewire('website.services.detailsservice')
 
 <div class="cta">
     <div class="container">
