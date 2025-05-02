@@ -23,7 +23,7 @@
                             <h4><a href="/detailsservice/{{$vservice->slug}}">{{$vservice->titre}}</a></h4>
                             <div class="space16"></div>
                             <p style="text-align: justify; text-justify: inter-word;">{!! Str::limit($vservice->contenu,
-                                170, ' ..') !!}</p>
+                                180, ' ..') !!}</p>
                         </div>
                     </div>
                 </div>

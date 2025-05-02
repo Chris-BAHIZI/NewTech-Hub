@@ -25,18 +25,17 @@
             <div class="col-lg-6">
                 <div class="heading1">
                     <span class="span"><img src="assets/img/newdesign/span1.png" alt=""> Qui sommes-nous ?</span>
-                    <h2>Empower Your Business With Our Comprehensive IT Solutions</h2>
+                    <h2>Dynamisez votre entreprise avec nos solutions informatiques complètes</h2>
                     <div class="space16"></div>
-                    <p>Welcome to TechXen, your premier destination for cutting-edge technology solutions and IT
-                        services. At TechXen, we are passionate about harnessing the power of technology to empower
-                        businesses a like.</p>
+                    <p>Bienvenue chez NewTech Hub, votre destination de choix pour des solutions technologiques et des services informatiques de
+                    pointe. Chez NewTech Hub, nous sommes passionnés par l'exploitation du pouvoir de la technologie au service des entreprises.</p>
 
                     <div class="space10"></div>
 
                     <div class="porgress-line-all">
                         <div class="progress-line">
                             <div class="heading">
-                                <h6>IT Consulting</h6>
+                                <h6>Conseil en informatique</h6>
                                 <p>80%</p>
                             </div>
                             <div class="progress">
@@ -46,7 +45,7 @@
                         </div>
                         <div class="progress-line">
                             <div class="heading">
-                                <h6>Cyber Security</h6>
+                                <h6>Cybersécurité</h6>
                                 <p>90%</p>
                             </div>
                             <div class="progress">

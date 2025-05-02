@@ -49,7 +49,6 @@
     <!-- Preloader -->
     @include('website.layouts._preloader')
 
-
     <!--=====HEADER START=======-->
     @include('website.layouts._headertop')
     @include('website.layouts._header')
@@ -68,20 +67,19 @@
                 <div class="col-lg-5">
                     <div class="main-headding">
                         <span class="span" data-aos="zoom-in-left" data-aos-duration="700"><img
-                                src="{{ asset('assets/img/icons/span1.png') }}" alt=""> TechXen Technology & It Solution</span>
-                        <h1 class="title tg-element-title">Transform Your Business With Next Generation <span
-                                class="after">IT Solutions</span></h1>
+                                src="{{ asset('assets/img/newdesign/span1.png') }}" alt=""> NewTech Hub Technologie votre solution informatique</span>
+                        <h1 class="title tg-element-title">Au rendez-vous de l'innovation<span
+                                class="after">Solutions informatiques</span></h1>
                         <div class="space16"></div>
-                        <p>Welcome to TechXen where we specialise in delivering tailored technology and IT solutions
-                            designed to propel your business forward. From streamlining operations to and driving
-                            growth.</p>
+                        <p>Bienvenue chez NewTech Hub, où nous sommes spécialisés dans la fourniture de solutions technologiques et informatiques sur
+                        mesure, conçues pour propulser votre entreprise. De la rationalisation des opérations à la croissance.</p>
 
                         <div class="space30"></div>
                         <div class="buttons">
-                            <a class="theme-btn1" href="contact.html">Get Started Now <span><i
+                            <a class="theme-btn1" href="{{route('contact')}}">Contactez-ns <span><i
                                         class="fa-solid fa-arrow-right"></i></span></a>
                             <a class="play-btn" href="https://www.youtube.com/watch?v=kcfs1-ryKWE"><span><i
-                                        class="fa-regular fa-play"></i></span> Watch Demo Video</a>
+                                        class="fa-regular fa-play"></i></span> Video démo</a>
                         </div>
                     </div>
                 </div>
@@ -126,8 +124,8 @@
                             <img src="{{ asset('assets/img/icons/hero-bottom-icon1.png') }}" alt="">
                         </div>
                         <div class="headding">
-                            <h5>4x Award Wining</h5>
-                            <p>Always ready to support</p>
+                            <h5>4 fois primé</h5>
+                            <p>Toujours prêt à soutenir</p>
                         </div>
                     </div>
                 </div>
@@ -138,8 +136,8 @@
                             <img src="{{ asset('assets/img/icons/hero-bottom-icon2.png') }}" alt="">
                         </div>
                         <div class="headding">
-                            <h5>2.5k Case Solved</h5>
-                            <p>It Solution case solved</p>
+                            <h5>2,5 000 cas résolus</h5>
+                            <p>Cas de solution informatique résolu</p>
                         </div>
                     </div>
                 </div>
@@ -150,8 +148,8 @@
                             <img src="{{ asset('assets/img/icons/hero-bottom-icon3.png') }}" alt="">
                         </div>
                         <div class="headding">
-                            <h5>150k Optimisation</h5>
-                            <p>Keywords into online</p>
+                            <h5>Optimisation de 150 000</h5>
+                            <p>Mots-clés en ligne</p>
                         </div>
                     </div>
                 </div>
@@ -162,8 +160,8 @@
                             <img src="{{ asset('assets/img/icons/hero-bottom-icon4.png') }}" alt="">
                         </div>
                         <div class="headding">
-                            <h5>4x Award Wining</h5>
-                            <p>Always ready to support</p>
+                            <h5>4 fois primé</h5>
+                            <p>Toujours prêt à soutenir</p>
                         </div>
                     </div>
                 </div>

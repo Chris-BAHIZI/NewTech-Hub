@@ -30,7 +30,7 @@
                                 </div>
                                 <div class="headding">
                                     <p>Passer un appel</p>
-                                    <a href="tel:+243 834 007 970">+243 834 007 970</a>
+                                    <a href="tel:+31 6 27470753">+31 6 27470753</a>
                                 </div>
                             </div>
                             <div class="button">

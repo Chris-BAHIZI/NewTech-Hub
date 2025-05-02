@@ -61,7 +61,7 @@
                             <img src="{{ asset('assets/img/icons/footer1-icon1.png') }}" alt="">
                         </div>
                         <div class="pera">
-                            <a href="tel:+243975657710">+243 97 56 57 710</a>
+                            <a href="tel:+31 6 27470753">+31 6 27470753</a>
                         </div>
                     </div>
 
@@ -70,7 +70,7 @@
                             <img src="{{ asset('assets/img/icons/footer1-icon2.png') }}" alt="">
                         </div>
                         <div class="pera">
-                            <a href="tel:+243875241251">+243 87 52 41 251</a>
+                            <a href="tel:+31 6 27470753">+31 6 27470753</a>
                         </div>
                     </div>
 
