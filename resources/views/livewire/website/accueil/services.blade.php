@@ -1,4 +1,4 @@
-<div class="servcie2 sp bg1">
+<div class="servcie2 bg1" style="padding-top: 40px; padding-bottom: 40px;">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 m-auto text-center">
@@ -7,8 +7,6 @@
                 </div>
             </div>
         </div>
-
-        <div class="space30"></div>
         <div class="row">
             @foreach ($vservices as $vservice)
             <div class="col-lg-4 col-md-6">

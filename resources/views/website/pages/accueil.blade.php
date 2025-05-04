@@ -67,7 +67,7 @@
                 <div class="col-lg-5">
                     <div class="main-headding">
                         <span class="span" data-aos="zoom-in-left" data-aos-duration="700"><img
-                                src="{{ asset('assets/img/newdesign/span1.png') }}" alt=""> NewTech Hub Technologie votre solution informatique</span>
+                                src="{{ asset('assets/img/newdesign/span1.png') }}" alt=""> New Tech Hub Technologie votre solution informatique</span>
                         <h1 class="title tg-element-title">Au rendez-vous de l'innovation<span
                                 class="after">Solutions informatiques</span></h1>
                         <div class="space16"></div>
@@ -87,7 +87,7 @@
                 <div class="col-lg-7">
                     <div class="hero1-all-images">
                         <div class="image1 ">
-                            <img src="{{ asset('assets/img/hero/hero1-image1.png') }}" alt="">
+                            <img src="{{ asset('assets/img/hero/hero1-image3.png') }}" alt="">
                         </div>
                         <div class="image2 reveal">
                             <img src="{{ asset('assets/img/hero/hero1-image2.png') }}" alt="">
@@ -175,7 +175,7 @@
 
     <!--=====ABOUT AREA START=======-->
 
-    <div class="about1 sp">
+    <div class="about1" style="padding-top: 40px; padding-bottom: 40px;">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -189,7 +189,7 @@
                         <div class="icon-box">
                             <img src="{{ asset('assets/img/icons/about1-shape-icon.png') }}" alt="">
                             <h4>Assistance 24h/24 et 7j/7</h4>
-                            <p>NewTech Hub Technologie et solution informatique</p>
+                            <p>New Technology Hub Technologie et solution informatique</p>
                         </div>
                     </div>
                 </div>
@@ -202,7 +202,7 @@
                             l'innovation
                         </h2>
                         <div class="space16"></div>
-                        <p data-aos="fade-left" data-aos-duration="800">NewTech Hub, pionnier dans le domaine des
+                        <p data-aos="fade-left" data-aos-duration="800">New Technology Hub, pionnier dans le domaine des
                             technologies et des solutions informatiques, s'engage à révolutionner la façon
                             dont les entreprises prospèrent à l'ère du numérique. Notre approche repose sur la
                             collaboration, la transparence et une
@@ -233,6 +233,7 @@
 
 
     @livewire('website.accueil.services')
+    @livewire('website.accueil.projets')
     @livewire('website.services.contact')
     <!--===== FOOTER AREA START =======-->
     @include('website.layouts._footer')

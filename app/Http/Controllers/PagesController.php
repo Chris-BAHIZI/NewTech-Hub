@@ -29,6 +29,10 @@ class PagesController extends Controller
     {
         return view('website.pages.projets');
     }
+
+    public function detailsprojet($projet){
+        return view('website.pages.detailsprojet', compact('projet'));
+    }
     
     public function contact()
     {

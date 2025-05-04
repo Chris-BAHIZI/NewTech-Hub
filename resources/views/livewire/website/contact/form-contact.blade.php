@@ -1,4 +1,4 @@
-<form action="#">
+{{-- <form action="#"> --}}
     <div class="row">
         <div class="col-lg-6">
             <div class="single-input">
@@ -35,8 +35,10 @@
         </div>
 
         <div class="col-lg-12">
-            <button class="theme-btn1">Envoyer message <span><i class="fa-solid fa-arrow-right"></i></span></button>
+            <button class="theme-btn1 col-sm-12">Envoyer message <span><i
+                        class="fa-solid fa-arrow-right"></i></span></button>
         </div>
 
     </div>
-</form>
+    {{--
+</form> --}}

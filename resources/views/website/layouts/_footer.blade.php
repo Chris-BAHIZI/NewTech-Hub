@@ -9,7 +9,7 @@
                     <div class="space20"></div>
                     <div class="heading1">
                         <p style="text-align: justify; text-justify: inter-word;">
-                            Chez NewTech Hub IT Solutions, nous nous engageons à fournir des solutions technologiques innovantes adaptées aux besoins
+                            Chez New Technology Hub IT Solutions, nous nous engageons à fournir des solutions technologiques innovantes adaptées aux besoins
                             uniques des entreprises comme la vôtre.
                         </p>
                     </div>
@@ -45,7 +45,7 @@
                         <li><a href="{{route('accueil')}}">Accueil </a></li>
                         <li><a href="{{route('aproposdenous')}}">A propos de nous </a></li>
                         <li><a href="{{route('services')}}">Services </a></li>
-                        {{-- <li><a href="{{route('projets')}}">Projets </a></li> --}}
+                        <li><a href="{{route('projets')}}">Projets </a></li>
                         <li><a href="{{route('contact')}}">Contact </a></li>
                     </ul>
                 </div>
@@ -61,7 +61,7 @@
                             <img src="{{ asset('assets/img/icons/footer1-icon1.png') }}" alt="">
                         </div>
                         <div class="pera">
-                            <a href="tel:+31 6 27470753">+31 6 27470753</a>
+                            <a href="tel:+243 834 007 970">+243 834 007 970</a>
                         </div>
                     </div>
 
@@ -70,7 +70,7 @@
                             <img src="{{ asset('assets/img/icons/footer1-icon2.png') }}" alt="">
                         </div>
                         <div class="pera">
-                            <a href="tel:+31 6 27470753">+31 6 27470753</a>
+                            <a href="tel:+243 849 932 555">+243 849 932 555 <br> +243 985 119 766</a>
                         </div>
                     </div>
 
@@ -79,7 +79,7 @@
                             <img src="{{ asset('assets/img/icons/footer1-icon3.png') }}" alt="">
                         </div>
                         <div class="pera">
-                            <a href="contact@newtechhub.org">contact@newtechhub.org</a>
+                            <a href="info@newtechnologyhub.org">info@newtechnologyhub.org<br>billing@newtechnologyhub.org</a>
                         </div>
                     </div>
 
@@ -88,7 +88,7 @@
                             <img src="{{ asset('assets/img/icons/footer1-icon4.png') }}" alt="">
                         </div>
                         <div class="pera">
-                            <a href="contact@newtechhub.org">www.newtechhub.org</a>
+                            <a href="www.newtechnologyhub.org">www.newtechnologyhub.org</a>
                         </div>
                     </div>
 
@@ -105,7 +105,7 @@
             <div class="row align-items-center">
                 <div class="col-md-12" style="padding-top:15px;  padding-bottom:15px;">
                     <div class="coppyright">
-                        <center>Copyright @ {{date('Y')}} <span style="color:#fe6442; ">NewTech</span> Hub.All Rights Reserved</center>
+                        <center>Copyright @ {{date('Y')}} <span style="color:#fe6442; ">NewTechnology Hub</span>.All Rights Reserved</center>
                     </div>
                 </div>
             </div>

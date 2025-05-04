@@ -18,7 +18,7 @@
                         </div>
                         <div class="heading">
                             <h5>Contactez-nous</h5>
-                            <a href="tel:(243)975657710" class="text">(243) 975657710</a>
+                            <a href="tel:+(243)834007970" class="text">+(243) 834 007 970</a>
                         </div>
                     </div>
 
@@ -28,7 +28,7 @@
                         </div>
                         <div class="heading">
                             <h5>Adresse mail</h5>
-                            <a href="mailto:admin@techxen.org " class="text">admin@techxen.org </a>
+                            <a href="mailto:info@newtechnologyhub.org " class="text">info@newtechnologyhub.org </a>
                         </div>
                     </div>
 
@@ -38,7 +38,7 @@
                         </div>
                         <div class="heading">
                             <h5>Emplacement du bureau</h5>
-                            <a href="tel:(124)555-6565" class="text">Av. Maimoto / Com. Kasavubu / Ville Kinshasa/ RDC</a>
+                            <a href="tel:(243)834007970" class="text">Av. Maimoto / Com. Kasavubu / Ville Kinshasa/ RDC</a>
                         </div>
                     </div>
 
@@ -48,7 +48,7 @@
 
             <div class="col-lg-6">
                 <div class="contact-form-details">
-                    <form action="#">
+                    {{-- <form action="#"> --}}
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="single-input">
@@ -85,12 +85,12 @@
                             </div>
 
                             <div class="col-lg-12">
-                                <button class="theme-btn1">Envoyer message <span><i
+                                <button class="theme-btn1 col-sm-12">Envoyer message <span><i
                                             class="fa-solid fa-arrow-right"></i></span></button>
                             </div>
 
                         </div>
-                    </form>
+                    {{-- </form> --}}
                 </div>
             </div>
         </div>

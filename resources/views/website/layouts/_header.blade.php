@@ -16,7 +16,7 @@
                                 <li><a href="{{route('accueil')}}">Accueil </a></li>
                                 <li><a href="{{route('aproposdenous')}}">A propos de nous </a></li>
                                 <li><a href="{{route('services')}}">Services </a></li>
-                                {{-- <li><a href="{{route('projets')}}">Projets </a></li> --}}
+                                <li><a href="{{route('projets')}}">Projets</a></li>
                                 <li><a href="{{route('contact')}}">Contact </a></li>
                             </ul>
                         </div>
@@ -30,7 +30,7 @@
                                 </div>
                                 <div class="headding">
                                     <p>Passer un appel</p>
-                                    <a href="tel:+31 6 27470753">+31 6 27470753</a>
+                                    <a href="tel:+243 834 007 970">+243 834 007 970</a>
                                 </div>
                             </div>
                             <div class="button">
