@@ -9,8 +9,8 @@
                     <div class="space20"></div>
                     <div class="heading1">
                         <p style="text-align: justify; text-justify: inter-word;">
-                            Chez New Technology Hub IT Solutions, nous nous engageons à fournir des solutions technologiques innovantes adaptées aux besoins
-                            uniques des entreprises comme la vôtre.
+                            Chez New Technology Hub Sarl, nous nous engageons à fournir des biens et des services technologiques innovants, adaptés
+                            aux besoins uniques des entreprises comme la vôtre.
                         </p>
                     </div>
                     <ul class="social-icon">

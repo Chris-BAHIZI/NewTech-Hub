@@ -3,13 +3,13 @@
         <div class="row align-items-center">
             <div class="col-lg-9">
                 <div class="heading1-w">
-                    <h2 style="text-align: justify; text-justify: inter-word;">Chez New Technology Hub IT Solutions, nous nous engageons envers les entreprises</h2>
+                    <h2 style="text-align: justify; text-justify: inter-word;">Chez New Technology Hub Sarl, nous propulsons l'innovation dans tous les secteurs d'activité.</h2>
                     <div class="space16"></div>
-                    <p style="text-align: justify; text-justify: inter-word;">Faites le premier pas vers la réalisation de vos objectifs commerciaux en nous contactant dès
-                        aujourd'hui. Prenez
-                        rendez-vous avec l'un de nos spécialistes informatiques pour discuter de vos objectifs et
-                        découvrir comment nos
-                        solutions innovantes peuvent vous propulser.</p>
+                    <p style="text-align: justify; text-justify: inter-word;">
+                        Faites le premier pas vers la transformation de votre entreprise en nous contactant dès aujourd'hui. Prenez rendez-vous
+                        avec l'un de nos spécialistes en technologie et solutions informatiques pour explorer ensemble comment nos innovations
+                        peuvent révolutionner vos opérations et vous ouvrir de nouvelles perspectives.
+                    </p>
                 </div>
             </div>
 

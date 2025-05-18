@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="pera">
-                    <p><img src="{{ asset('assets/img/newdesign/span1.png') }}" alt=""> Une entreprise professionnelle de technologie et de solutions informatiques basée sur le monde</p>
+                    <p><img src="{{ asset('assets/img/newdesign/span1.png') }}" alt=""> New Technology Hub Sarl : L'Innovation Technologique, Sans Frontières</p>
                 </div>
             </div>
         </div>

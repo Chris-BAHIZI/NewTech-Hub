@@ -67,12 +67,15 @@
                 <div class="col-lg-5">
                     <div class="main-headding">
                         <span class="span" data-aos="zoom-in-left" data-aos-duration="700"><img
-                                src="{{ asset('assets/img/newdesign/span1.png') }}" alt=""> New Tech Hub Technologie votre solution informatique</span>
-                        <h1 class="title tg-element-title">Au rendez-vous de l'innovation<span
-                                class="after">Solutions informatiques</span></h1>
+                                src="{{ asset('assets/img/newdesign/span1.png') }}" alt=""> New Technology Hub Sarl</span>
+                        <h1 class="title tg-element-title">Simplifying 
+                            <span class="after">the complex</span></h1>
                         <div class="space16"></div>
-                        <p>Bienvenue chez NewTech Hub, où nous sommes spécialisés dans la fourniture de solutions technologiques et informatiques sur
-                        mesure, conçues pour propulser votre entreprise. De la rationalisation des opérations à la croissance.</p>
+                        <p>
+                            Bienvenue chez New Technology Hub Sarl, où nous sommes spécialisés dans la fourniture de services et de biens
+                            technologiques et informatiques sur mesure, conçus pour propulser votre entreprise. De la rationalisation des opérations
+                            à la croissance.
+                        </p>
 
                         <div class="space30"></div>
                         <div class="buttons">
@@ -136,7 +139,7 @@
                             <img src="{{ asset('assets/img/icons/hero-bottom-icon2.png') }}" alt="">
                         </div>
                         <div class="headding">
-                            <h5>2,5 000 cas résolus</h5>
+                            <h5>100 cas résolus</h5>
                             <p>Cas de solution informatique résolu</p>
                         </div>
                     </div>
@@ -148,7 +151,7 @@
                             <img src="{{ asset('assets/img/icons/hero-bottom-icon3.png') }}" alt="">
                         </div>
                         <div class="headding">
-                            <h5>Optimisation de 150 000</h5>
+                            <h5>Optimisation de 14</h5>
                             <p>Mots-clés en ligne</p>
                         </div>
                     </div>
