@@ -52,6 +52,19 @@
                     <span data-text-preloader="B" class="letters-loading">
                         B
                     </span>
+
+                    <span data-text-preloader="S" class="letters-loading">
+                        S
+                    </span>
+                    <span data-text-preloader="a" class="letters-loading">
+                        a
+                    </span>
+                    <span data-text-preloader="r" class="letters-loading">
+                        r
+                    </span>
+                    <span data-text-preloader="l" class="letters-loading">
+                        l
+                    </span>
                 </div>
             </div>
             <div class="loader-section-left loader-section section-left"></div>
