@@ -41,7 +41,6 @@
 
 <body class="body tg-heading-subheading animation-style3">
 
-
     <!--=====progress END=======-->
     @include('website.layouts._paginacontainer')
     <!--=====progress END=======-->
@@ -187,10 +186,10 @@
                             <img src="{{ asset('assets/img/about/about1-img1.png') }}" alt="">
                         </div>
                         <div class="image2 reveal image-anime">
-                            <img src="{{ asset('assets/img/about/about1-img2.png') }}" alt="">
+                            <img src="{{ asset('assets/img/autreimg/pngegg (4).png') }}" alt="">
                         </div>
                         <div class="icon-box">
-                            <img src="{{ asset('assets/img/icons/about1-shape-icon.png') }}" alt="">
+                            <img src="{{ asset('assets/img/newdesign/span1.png') }}" style="width:30px; " alt="">
                             <h4>Assistance 24h/24 et 7j/7</h4>
                             <p>New Technology Hub Technologie et solution informatique</p>
                         </div>
