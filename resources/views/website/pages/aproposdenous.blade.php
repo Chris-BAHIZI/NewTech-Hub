@@ -69,8 +69,13 @@
                     <span class="span"><img src="{{asset('assets/img/newdesign/span1.png')}}" alt=""> Notre vision</span><br>
                     Devenir un acteur de référence en RDC et au-delà, reconnu pour sa polyvalence, son engagement envers le développement
                     durable et sa capacité à proposer des solutions intégrées au service des communautés et de l’avenir.
-                    
-                    VALEURS FONDAMENTALES NEW TECHNOLOGY HUB Sarl : <span style="color: #191860; ">Performance</span>, <span style="color: #191860; ">Innovation</span>, <span style="color: #191860; ">Travail d'équipe</span> et <span style="color: #191860; ">Traiter le client comme nous aimerions être traités.</span></p>
+                    </p>
+
+                    <br>
+                    <p style="text-align: justify; text-justify: inter-word;">
+                        <span class="span"><img src="{{asset('assets/img/newdesign/span1.png')}}" alt=""> Nos valeurs fondamentaux </span><br>
+                        Performance, Innovation, Travail d'équipe et Traiter le client comme nous aimerions être traités.
+                    </p>
                 </div>
             </div>
 
