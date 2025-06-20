@@ -117,21 +117,21 @@
                 <div class="team-box">
                     <div class="image-area">
                         <div class="image">
-                            <img src="assets/img/team/team2-img1.png" alt="">
+                            <img src="{{asset('assets/img/team/CEO & FOUNDER.jpg')}}" alt="" style="max-height: 260px; ">
                         </div>
-                        <div class="icon-area">
+                        {{-- <div class="icon-area">
                             <ul>
                                 <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
                             </ul>
-                        </div>
+                        </div> --}}
                     </div>
 
                     <div class="space30"></div>
                     <div class="heading1">
-                        <h4><a href="#">John Doe</a></h4>
+                        <h4><a href="#">Rosette MUNYEMANA</a></h4>
                         <div class="space10"></div>
                         <p>CEO & Founder</p>
                     </div>
@@ -142,21 +142,21 @@
                 <div class="team-box">
                     <div class="image-area">
                         <div class="image">
-                            <img src="assets/img/team/team2-img2.png" alt="">
+                            <img src="{{asset('assets/img/team/Gerant New Technology Hub Sarl.jpg')}}" alt="" style="max-height: 260px; ">
                         </div>
-                        <div class="icon-area">
+                        {{-- <div class="icon-area">
                             <ul>
                                 <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
                             </ul>
-                        </div>
+                        </div> --}}
                     </div>
 
                     <div class="space30"></div>
                     <div class="heading1">
-                        <h4><a href="#">Jane Smith</a></h4>
+                        <h4><a href="#">Laury's ITUKULU ASWA</a></h4>
                         <div class="space10"></div>
                         <p>Chef Technology Officer</p>
                     </div>
@@ -169,23 +169,23 @@
                 <div class="team-box">
                     <div class="image-area">
                         <div class="image">
-                            <img src="assets/img/team/team2-img3.png" alt="">
+                            <img src="{{asset('assets/img/team/Program Manager.PNG')}}" alt="" style="max-height: 260px; ">
                         </div>
-                        <div class="icon-area">
+                        {{-- <div class="icon-area">
                             <ul>
                                 <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
                             </ul>
-                        </div>
+                        </div> --}}
                     </div>
 
                     <div class="space30"></div>
                     <div class="heading1">
                         <h4><a href="#">Sarah Thompson </a></h4>
                         <div class="space10"></div>
-                        <p>Head of Project Management</p>
+                        <p>Program Manager</p>
                     </div>
 
                 </div>
@@ -195,23 +195,23 @@
                 <div class="team-box">
                     <div class="image-area">
                         <div class="image">
-                            <img src="assets/img/team/team2-img4.png" alt="">
+                            <img src="{{asset('assets/img/team/chrisbahizi.png')}}" alt="" style="max-height: 260px; ">
                         </div>
-                        <div class="icon-area">
+                        {{-- <div class="icon-area">
                             <ul>
                                 <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
                                 <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
                             </ul>
-                        </div>
+                        </div> --}}
                     </div>
 
                     <div class="space30"></div>
                     <div class="heading1">
-                        <h4><a href="#">David Garcia</a></h4>
+                        <h4><a href="#">Christian BAHIZI</a></h4>
                         <div class="space10"></div>
-                        <p>Lead Software Engineer</p>
+                        <p>Software Engineer</p>
                     </div>
 
                 </div>

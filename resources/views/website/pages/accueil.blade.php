@@ -92,7 +92,7 @@
                             <img src="{{ asset('assets/img/hero/hero1-image3.png') }}" alt="">
                         </div>
                         <div class="image2 reveal">
-                            <img src="{{ asset('assets/img/hero/hero1-image2.png') }}" alt="">
+                            <img src="{{ asset('assets/img/projets/Untitled-5.png') }}" alt="">
                         </div>
                         <div class="image3 shape-animaiton3">
                             <img src="{{ asset('assets/img/hero/hero1-image3.png') }}" alt="">
@@ -186,7 +186,7 @@
                             <img src="{{ asset('assets/img/about/about1-img1.png') }}" alt="">
                         </div>
                         <div class="image2 reveal image-anime">
-                            <img src="{{ asset('assets/img/autreimg/pngegg (4).png') }}" alt="">
+                            <img src="{{ asset('assets/img/projets/yabisomai.png') }}" alt="">
                         </div>
                         <div class="icon-box">
                             <img src="{{ asset('assets/img/newdesign/span1.png') }}" style="width:30px; " alt="">

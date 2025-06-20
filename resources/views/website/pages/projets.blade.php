@@ -4,9 +4,7 @@
 
 <div class="project-boxs-area" style="padding-top: 30px;">
     <div class="container">
-
         @livewire('website.projets.projets')
-
     </div>
 </div>
 
